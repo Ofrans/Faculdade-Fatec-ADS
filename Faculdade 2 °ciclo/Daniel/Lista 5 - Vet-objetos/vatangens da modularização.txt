@@ -1,0 +1,16 @@
+Vantagens da modularização de programas: 
+    1) Facilita a manutenção do código
+    2) Facilidade a organização e estruturação do código
+    3) Permite a reutilização de código
+
+Função com passagem de parâmetro por referência:
+    A função definida consegue alterar o valor da variável declarada na função que a chamou. Exemplo:
+
+    function x(ve){
+        vet[0] = 10; vet [i] = 11;
+    }
+    function y(){
+        let vet = []
+        x(vet)
+        console.log(vet) // vai mostrar 10 e 11
+    }

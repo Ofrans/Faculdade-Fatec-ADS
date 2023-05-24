@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Exercicio 21 - Lista 3</title>
+        <style>
+            body{
+                width: 400px;
+                margin: auto;
+            }
+            span {
+                color: red;
+            }
+            div{
+                border: 1px solid black;
+                padding: 10px;
+                border-radius: 5px;
+            }
+            #divBotao{
+                display: flex;
+                justify-content:  center; /* alinha na horizontal */
+                border-radius:  5px;
+                margin-bottom: 5px;
+                background-color: aqua;
+            }
+            a:hover {
+                text-decoration: underline;
+                color: red;
+            }
+            a:active {
+                color: yellow;
+            }
+        </style>
+        <script src="lista3.js"></script>
+    </head>
+    <body>
+        <div id="container">
+            <div id="divBotao">
+                <button onclick="exe21()"> Votar para presidente </button>
+            </div>
+            <div>
+                <p> Quantidade de votos em 1:  <span id="qtde1"></span></p>
+                <p> Quantidade de votos em 2: <span id="qtde2"></span></p>
+                <p> Quantidade de votos em 3:  <span id="qtde3"></span></p>
+                <p> Quantidade de votos em 4:  <span id="qtde4"></span></p>
+                <p> Quantidade de votos Branco:  <span id="qtdeBranco"></span></p>
+                <p> Quantidade de votos Nulo: <span id="qtdeNulo"></span></p>
+                <p> Procentagem de votos em Nulo:  <span id="percNulo"></span></p>
+                <p> Procentagem de votos em Branco:  <span id="percBranco"></span></p>
+            </div>
+        </div>
+    </body>
+</html>
