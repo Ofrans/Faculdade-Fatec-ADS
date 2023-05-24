@@ -1,9 +1,0 @@
-Versionamento: Registro de codigos e mudanças
-
-O que é GIT: 
-    - é um sistema de  versionamento de código.
-    - Salva seu projeto da onde ele está, para que assim seja
-    possivel retornar de onde foi parado, no código.
-    - O GIT salva localmente e instantaneamente.
-
-link yt: https://www.youtube.com/watch?v=tcUsdj8CNEI

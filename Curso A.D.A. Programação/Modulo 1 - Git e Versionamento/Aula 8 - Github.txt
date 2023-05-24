@@ -1,7 +1,0 @@
-Github{
-    - O que é: é uma plataforma de hospedagem de código.
-    - Git e Gihub não são a mesma coisa.
-    - Serve de portifólio ou completento do seu curriculo.
-}
-
-link yt: https://www.youtube.com/watch?v=y9ziXFBmV5o
