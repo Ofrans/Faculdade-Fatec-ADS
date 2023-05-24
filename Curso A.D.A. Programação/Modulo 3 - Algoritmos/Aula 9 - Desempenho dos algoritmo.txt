@@ -1,0 +1,8 @@
+* A complexidade do algoritmo não está relacionado ao quão ele é dificil de entender, mas sim, quantas medições aquele
+algoritmo tem que fazer para resolver um problema.
+
+* Não basta só montar um algoritmo, deve-se atentar a montar algo que funcione e seja otimizado.
+* A quantidade de operações faz com que seu projeto fique cada vez mais pesado .
+* Sempre utilizar as ferramentaz que a linguagem oferece, para tornar uma solução cada vez menos complexa.
+
+link yt: https://www.youtube.com/watch?v=DHbx1RkdPro
