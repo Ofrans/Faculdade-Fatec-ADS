@@ -1,0 +1,16 @@
+Processo de um git{
+    - Pega um arquivo Unmodified o altera e ele vira um arquivo modified
+    - Pega o arquivo Modified e da um git add nele que ele irá para a area de stage
+    - Pega o arquivo na area de Staged e da um git commit -m 'mensagem' que ele será commitado
+    - 
+}
+
+comando{
+    - git log (mostra os commits que foram feitos)
+    - git restore 'nome do arquivo'(Retorna arquivos modificados (ex. git restore \README.md))
+    - git restore --staged 'nome do arquivo' (mostra onde comando restore será utilizado)
+}
+
+* Quem baixa a extensão gitLens no vscode aparece os commits na aba inferior a esquerda *
+
+link yt: https://www.youtube.com/watch?v=NrW_UPAr83Q

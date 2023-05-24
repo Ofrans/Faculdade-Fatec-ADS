@@ -1,0 +1,21 @@
+Sempre bom ter um repositório do programa, para que caso algo ocorra, possa voltar da onde o código ainda funcionava.
+
+A opção mais viável para hospedar código é o GITHUB 
+
+Trazendo de um repositório para minha maquina local{
+    - Passo 1: Copiar o link HTTPS no GITHUB da pasta desejada
+    - Passo 2: CD e selecione o caminho (pasta)
+    - Passo 3: depois digitar "git clone" e colar em seguida o link HTTPS (ex: git clone https://github.com/dfpires/ling-prog-20231.git)
+        // depois disso é possivel a pasta ou arquivo clonado onde você escolheu
+}
+
+Uilizando o VScode para realizar criar um repositório local{
+    - Passo 1: Abrir a pasta no Vscode
+    - Passo 2: Ir no terminal, dentro do VScode e digitar "git init"  
+        // isso criará um repositório git dentro da pasta
+}
+
+// O processo para realizar o git init, pode ser feito em qualquer uma das plataformas que permitam isso (GIThub Desktop,GIT,VScode e etc), desde que atente-se de estar dentro
+da pasta desejada para realizar o git
+
+link yt: https://www.youtube.com/watch?v=0EyaRrKH3xw

@@ -1,0 +1,7 @@
+Elaborar uma "receita" em seu projeto, para que assim o resultado seja o mais proximo do esperado
+
+O que é algoritmo: - Sequencia de passos que você segue para realizar algo que você queira;
+
+* O computador para realizar alguma tarefas precisa do passo a passo, ou seja, comando explicitos e bem definidos.
+
+link yt: https://www.youtube.com/watch?v=SFxqcQesypA

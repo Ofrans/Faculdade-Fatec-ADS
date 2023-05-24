@@ -1,0 +1,37 @@
+Para construir um algoritmo{
+    - Definir as minhas entradas e o que é esperado na Saída.
+        * Se a gente não sabe o que espera na saída, nem define muito bem o que a gente tem na entrada, não há como criar
+        algo que a saída seja esperada *
+    
+}
+
+Todo programa tem {
+    - Inicio
+    - Entrada 
+    - Processamento  (Magica que fará tudo ocorrer como esperado, pensado passo a passo)
+    - Saída 
+    - Final 
+}
+
+Usando de exemplo um programa que irá dar uma mensagem de bom dia e o nome da pessoa{
+    - Entrada: Nome da pessoa
+    - Saída esperada: Bom dia, 'Nome da pessoa'.
+    - Processamento{
+                    1°- Mostrar uma mensagem da tela pedindo o nome da pessoa;
+                    2°- Esperar a pessoa dar a entrada de dados;
+                    3°- Pegar o nome e juntar com a mensagem de bom dia;
+                    4°- Mostrar na tela o "Bom dia, 'nome da pessoa";
+    }
+}
+
+Portanto nosso fluxo será{
+    - Inicio{
+        - Peço o nome da pessoa
+        - Armazenar o nome da pessoa
+        - Juntar o nome da pessoa ao texto de "Bom dia"
+        - Mostrar a frase montada
+    }
+    - Final
+}
+
+link yt: https://www.youtube.com/watch?v=GBDP6yfwdfY

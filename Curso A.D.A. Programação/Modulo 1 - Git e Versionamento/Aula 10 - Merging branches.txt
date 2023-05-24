@@ -1,0 +1,15 @@
+* Dividir o trabalho me Branchs separadas, faz com que o trabalho/projeto seja feito
+em paralelo, otimizando o tempo para realização do projeto.
+
+comandos{
+    - git branch (revela as branch que tem)
+    - git checkout 'nome da branch que você irá' (troca de branch na head)
+    - git merge 'nome da branch que você quer trazer os arquivos' (Une as informações
+    das duas branchs, criando um commit único)
+}
+* A ideia do merge é unir fluxos separados em um só
+
+! Em situações que há alterações nas linha de código de um mesmo arquivo, o git merge
+'nome da branch' pode excluir o que estava escrito no arquivo!
+
+link yt: https://www.youtube.com/watch?v=TFBWfHw7ohs

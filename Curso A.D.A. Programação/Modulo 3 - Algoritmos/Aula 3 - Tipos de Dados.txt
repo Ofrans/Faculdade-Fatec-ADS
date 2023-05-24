@@ -1,0 +1,23 @@
+* Para o computador é muito importante saber quais o tipos de dados que está sendo utilizado
+
+Tipos de dados{
+    - Numericos (Utilizado em operações que envolvam valores){
+        - Inteiros (São os conjuntos inteiros);
+        - Pontos flutuantes (possuem casas depois da virgula);
+    }
+    - Texto (Sequência de caracteres, que seja utilizado como um texto)
+    - Boleano (Somente vê se aquele é verdadeiro ou falso)
+}
+
+* O que é uma variável (é um idêntificador de um valor dentro da memório do computador)
+
+Exemplo de um programa que registra valores em uma variável{
+    - Obter um primeiro numero;
+    - Armazenar o primeiro número -> n1;
+    - Obter o segundo número;
+    - Armazenar o segundo número;
+    - Somar n1 e n2 -> resultado;
+    - Mostrar o resultado;
+}
+
+link yt: https://www.youtube.com/watch?v=gK2CQzcRoMk
