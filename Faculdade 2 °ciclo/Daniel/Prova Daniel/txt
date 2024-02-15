@@ -1,5 +1,0 @@
-Faça um programa que receba 10 nomes de modelos de computadores, juntamente com suas quantidades em estoque, e sua classificação (podendo ser apenas gamer, notebook, desktop). Qtde em estoque não pode ser negativa
-  
-Após a entrada de dados, o programa deve permitir que se façam 4 compras de computadores, informando modelo, classificação e quantidade a ser comprada. Se o modelo não existir, cancelar a compra. Se a quantidade for insuficiente, cancelar a compra. Mostrar as mensagens de erro e de sucesso ao usuário. 
-  
-Ao final, o programa deve mostrar os modelos dos computadores do tipo notebook com maior e menor valor em estoque

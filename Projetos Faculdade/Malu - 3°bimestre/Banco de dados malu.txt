@@ -1,0 +1,226 @@
+ Nome da Empresa 	Pago 	Guia	Tipo de Site	Valor	Tipo de Cliente	Cidade	Estado	Data da Venda	Otimizado	3+ Avaliações no Google
+ Empresa 1       	 SIM      	 SIM      	 WooCommerce 	1500,00	 TOP      	São Paulo    	 SP  	 quarta-feira, 10 de março de 2010 	 SIM 	 SIM 
+ Empresa 2       	 SIM      	 SIM      	 Standard 	1700,00	 TRANQUILO 	 Rio de Janeiro   	 RJ  	terça-feira, 5 de maio de 2015  	NÃO	NÃO
+ Empresa 3       	NÃO     	NÃO     	 WordPress + Blog 	2500,00	 CHATO 	 Belo Horizonte  	 MG  	 sexta-feira, 20 de julho de 2012 	 SIM 	 SIM 
+ Empresa 4       	 SIM      	 SIM      	 WordPress 	1800,00	 TRANQUILO 	 Salvador       	 BA  	 quinta-feira, 15 de setembro de 2011 	NÃO	 SIM 
+ Empresa 5       	NÃO     	NÃO     	 Standard 	1400,00	 CHATO 	 Brasília        	 DF  	 segunda-feira, 3 de novembro de 2008 	 SIM 	NÃO
+ Empresa 6       	 SIM      	 SIM      	 WooCommerce 	1900,00	 TOP 	 Porto Alegre     	 RS  	 quarta-feira, 12 de dezembro de 2013 	 SIM 	 SIM 
+ Empresa 7       	NÃO     	NÃO     	 WordPress + Blog 	1600,00	 TRANQUILO 	 Curitiba     	 PR  	 sexta-feira, 7 de setembro de 2018 	NÃO	NÃO
+ Empresa 8       	 SIM      	NÃO     	 WooCommerce 	2200,00	 TOP 	 Goiânia          	 GO  	terça-feira, 21 de junho de 2016 	 SIM 	 SIM 
+ Empresa 9       	 SIM      	 SIM      	 WordPress 	1750,00	 TRANQUILO 	 Recife         	 PE  	 quarta-feira, 14 de maio de 2014 	 SIM 	 SIM 
+ Empresa 10      	NÃO     	NÃO     	 Standard 	1300,00	 CHATO 	 Manaus         	 AM  	 quinta-feira, 9 de outubro de 2019 	NÃO	NÃO
+ Empresa 11      	 SIM      	 SIM      	 WooCommerce 	1650,00	 TOP      	 Belém             	 PA  	terça-feira, 8 de julho de 2017 	 SIM 	 SIM 
+ Empresa 12      	 SIM      	 SIM      	 Standard 	1550,00	 TRANQUILO 	Vitória         	 ES  	 quarta-feira, 15 de fevereiro de 2012 	NÃO	 SIM 
+ Empresa 13      	NÃO     	NÃO     	 WordPress + Blog 	2300,00	 CHATO 	 Florianópolis	 SC  	 quinta-feira, 25 de janeiro de 2018 	 SIM 	NÃO
+ Empresa 14      	 SIM      	 SIM      	 WordPress 	2000,00	 TRANQUILO 	 Cuiabá          	 MT  	 segunda-feira, 4 de setembro de 2017 	 SIM 	 SIM 
+ Empresa 15      	NÃO     	NÃO     	 Standard 	1350,00	 CHATO 	 João Pessoa     	 PB  	 sexta-feira, 30 de outubro de 2015 	NÃO	NÃO
+ Empresa 16      	 SIM      	NÃO     	 WooCommerce 	2100,00	 TOP 	 Teresina          	 PI  	 quarta-feira, 14 de março de 2012 	 SIM 	 SIM 
+ Empresa 17      	 SIM      	 SIM      	 WordPress + Blog 	1750,00	 TRANQUILO 	 Aracaju 	 SE  	terça-feira, 11 de janeiro de 2011 	NÃO	 SIM 
+ Empresa 18      	NÃO     	NÃO     	 WordPress 	1450,00	 CHATO 	 Porto Velho 	 RO  	 quinta-feira, 27 de setembro de 2012 	 SIM 	NÃO
+ Empresa 19      	 SIM      	 SIM      	 Standard 	1900,00	 TOP 	 Macapá¡            	 AP  	 sexta-feira, 5 de agosto de 2016 	 SIM 	 SIM 
+ Empresa 20      	 SIM      	 SIM      	 WooCommerce 	1750,00	 TRANQUILO 	 Palmas      	 TO  	 quarta-feira, 23 de junho de 2010 	NÃO	NÃO
+ Empresa 21      	 SIM      	 SIM      	 WooCommerce 	1600,00	 TOP 	 Campinas      	 SP  	 quarta-feira, 7 de abril de 2010 	 SIM 	 SIM 
+ Empresa 22      	 SIM      	 SIM      	 Standard 	1750,00	 TRANQUILO 	 São Luís    	 MA  	terça-feira, 12 de setembro de 2017 	NÃO	NÃO
+ Empresa 23      	NÃO     	NÃO     	 WordPress + Blog 	2400,00	 CHATO 	 Maceió  	 AL  	 sexta-feira, 14 de fevereiro de 2014 	 SIM 	 SIM 
+ Empresa 24      	 SIM      	 SIM      	 WordPress 	1850,00	 TRANQUILO 	 Recife         	 PE  	 quinta-feira, 9 de março de 2011 	 SIM 	 SIM 
+ Empresa 25      	NÃO     	NÃO     	 Standard 	1450,00	 CHATO 	 Belo Horizonte 	 MG  	 segunda-feira, 5 de janeiro de 2009 	NÃO	NÃO
+ Empresa 26      	 SIM      	 SIM      	 WooCommerce 	1950,00	 TOP 	 Porto Alegre   	 RS  	 quarta-feira, 11 de outubro de 2015 	 SIM 	 SIM 
+ Empresa 27      	NÃO     	NÃO     	 WordPress + Blog 	1700,00	 TRANQUILO 	 Curitiba 	 PR  	 quinta-feira, 20 de junho de 2019 	NÃO	NÃO
+ Empresa 28      	 SIM      	NÃO     	 WooCommerce 	2150,00	 TOP 	 Goiânia           	 GO  	terça-feira, 2 de setembro de 2014 	 SIM 	 SIM 
+ Empresa 29      	 SIM      	 SIM      	 WordPress 	1780,00	 TRANQUILO 	 Salvador   	 BA  	 quarta-feira, 1 de agosto de 2012 	 SIM 	 SIM 
+ Empresa 30      	NÃO     	NÃO     	 Standard 	1320,00	 CHATO 	 Brasília        	 DF  	 sexta-feira, 18 de novembro de 2016 	NÃO	NÃO
+ Empresa 31 	 SIM  	 SIM  	 WooCommerce       	1580,00	 TOP                   	 Florianópolis	 SC     	terça-feira, 3 de junho de 2014    	 SIM  	 SIM  
+ Empresa 32 	 SIM  	 SIM  	 Standard           	1650,00	 TRANQUILO             	 Fortaleza       	 CE     	 quarta-feira, 12 de dezembro de 2018 	NÃO 	NÃO 
+ Empresa 33 	NÃO 	NÃO 	 WordPress + Blog 	2550,00	 CHATO                 	 Goiânia         	 GO     	 sexta-feira, 20 de outubro de 2017   	 SIM  	 SIM  
+ Empresa 34 	 SIM  	 SIM  	 WordPress          	1920,00	 TRANQUILO             	 Belém           	 PA     	 quinta-feira, 5 de agosto de 2010   	 SIM  	 SIM  
+ Empresa 35 	NÃO 	NÃO 	 Standard           	1420,00	 CHATO                 	Vitória         	 ES     	 segunda-feira, 10 de abril de 2015  	NÃO 	NÃO 
+ Empresa 36 	 SIM  	 SIM  	 WooCommerce       	1980,00	 TOP                   	 João Pessoa     	 PB     	 quarta-feira, 17 de março de 2016  	 SIM  	 SIM  
+ Empresa 37 	NÃO 	NÃO 	 WordPress + Blog 	1670,00	 TRANQUILO             	 Teresina        	 PI     	 sexta-feira, 22 de setembro de 2017 	NÃO 	NÃO 
+ Empresa 38 	 SIM  	NÃO 	 WooCommerce       	2100,00	 TOP                   	 Porto Velho     	 RO     	terça-feira, 14 de novembro de 2011 	 SIM  	 SIM  
+ Empresa 39 	 SIM  	 SIM  	 WordPress          	1810,00	 TRANQUILO             	 Maceió          	 AL     	 quarta-feira, 8 de fevereiro de 2012 	 SIM  	 SIM  
+ Empresa 40 	NÃO 	NÃO 	 Standard           	1380,00	 CHATO                 	 Manaus          	 AM     	 quinta-feira, 27 de junho de 2019  	NÃO 	NÃO 
+ Empresa 41 	 SIM  	 SIM  	 WooCommerce       	1620,00	 TOP                   	 Curitiba        	 PR     	 quarta-feira, 19 de maio de 2010   	 SIM  	 SIM  
+ Empresa 42 	 SIM  	 SIM  	 Standard           	1700,00	 TRANQUILO             	 Recife          	 PE     	terça-feira, 3 de setembro de 2013 	NÃO 	NÃO 
+ Empresa 43 	NÃO 	NÃO 	 WordPress + Blog 	2480,00	 CHATO                 	 Brasília        	 DF     	 sexta-feira, 14 de junho de 2019   	 SIM  	 SIM  
+ Empresa 44 	 SIM  	 SIM  	 WordPress          	1870,00	 TRANQUILO             	 Porto Alegre    	 RS     	 quinta-feira, 11 de dezembro de 2014 	 SIM  	 SIM  
+ Empresa 45 	NÃO 	NÃO 	 Standard           	1440,00	 CHATO                 	 Belo Horizonte  	 MG     	 segunda-feira, 6 de março de 2017  	NÃO 	NÃO 
+ Empresa 46 	 SIM  	 SIM  	 WooCommerce       	1960,00	 TOP                   	 São Luís        	 MA     	 quarta-feira, 8 de outubro de 2018  	 SIM  	 SIM  
+ Empresa 47 	NÃO 	NÃO 	 WordPress + Blog 	1660,00	 TRANQUILO             	 Aracaju         	 SE     	 sexta-feira, 10 de janeiro de 2014  	NÃO 	NÃO 
+ Empresa 48 	 SIM  	NÃO 	 WooCommerce       	2120,00	 TOP                   	 Natal           	 RN     	terça-feira, 12 de setembro de 2017 	 SIM  	 SIM  
+ Empresa 49 	 SIM  	 SIM  	 WordPress          	1790,00	 TRANQUILO             	 Palmas          	 TO     	 quarta-feira, 23 de agosto de 2011 	 SIM  	 SIM  
+ Empresa 50 	NÃO 	NÃO 	 Standard           	1400,00	 CHATO                 	 Teresina        	 PI     	 quinta-feira, 5 de novembro de 2015  	NÃO 	NÃO 
+ Empresa 51 	 SIM 	 SIM 	 WooCommerce 	1560,00	 TOP 	 Porto Velho 	 RO 	 quarta-feira, 7 de março de 2018 	 SIM 	 SIM 
+ Empresa 52 	 SIM 	 SIM 	 Standard 	1680,00	 TRANQUILO 	 Fortaleza 	 CE 	terça-feira, 22 de janeiro de 2013 	NÃO	NÃO
+ Empresa 53 	NÃO	NÃO	 WordPress + Blog 	2420,00	 CHATO 	 Goiânia 	 GO 	 sexta-feira, 3 de abril de 2015 	 SIM 	 SIM 
+ Empresa 54 	 SIM 	 SIM 	 WordPress 	1900,00	 TRANQUILO 	 Belém 	 PA 	 quinta-feira, 19 de setembro de 2019 	 SIM 	 SIM 
+ Empresa 55 	NÃO	NÃO	 Standard 	1430,00	 CHATO 	Vitória 	 ES 	 segunda-feira, 8 de junho de 2015 	NÃO	NÃO
+ Empresa 56 	 SIM 	 SIM 	 WooCommerce 	1940,00	 TOP 	 João Pessoa 	 PB 	 quarta-feira, 27 de dezembro de 2017 	 SIM 	 SIM 
+ Empresa 57 	NÃO	NÃO	 WordPress + Blog 	1630,00	 TRANQUILO 	 Teresina 	 PI 	 sexta-feira, 4 de março de 2011 	NÃO	NÃO
+ Empresa 58 	 SIM 	NÃO	 WooCommerce 	2080,00	 TOP 	 Porto Alegre 	 RS 	terça-feira, 15 de outubro de 2013 	 SIM 	 SIM 
+ Empresa 59 	 SIM 	 SIM 	 WordPress 	1760,00	 TRANQUILO 	 Maceió 	 AL 	 quarta-feira, 18 de agosto de 2010 	 SIM 	 SIM 
+ Empresa 60 	NÃO	NÃO	 Standard 	1360,00	 CHATO 	 Salvador 	 BA 	 quinta-feira, 12 de junho de 2014 	NÃO	NÃO
+ Empresa 61 	 SIM 	 SIM 	 WooCommerce 	1570,00	 TOP 	 Recife 	 PE 	 quarta-feira, 6 de maio de 2015 	 SIM 	 SIM 
+ Empresa 62 	 SIM 	 SIM 	 Standard 	1690,00	 TRANQUILO 	Florianópolis	 SC 	terça-feira, 8 de outubro de 2019 	NÃO	NÃO
+ Empresa 63 	NÃO	NÃO	 WordPress + Blog 	2450,00	 CHATO 	 Fortaleza 	 CE 	 sexta-feira, 12 de agosto de 2016 	 SIM 	 SIM 
+ Empresa 64 	 SIM 	 SIM 	 WordPress 	1880,00	 TRANQUILO 	 Belo Horizonte 	 MG 	 quinta-feira, 9 de julho de 2015 	 SIM 	 SIM 
+ Empresa 65 	NÃO	NÃO	 Standard 	1410,00	 CHATO 	 Teresina 	 PI 	 segunda-feira, 11 de novembro de 2013 	NÃO	NÃO
+ Empresa 66 	 SIM 	 SIM 	 WooCommerce 	1920,00	 TOP 	 São Luís 	 MA 	 quarta-feira, 20 de setembro de 2017 	 SIM 	 SIM 
+ Empresa 67 	NÃO	NÃO	 WordPress + Blog 	1620,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 14 de janeiro de 2011 	NÃO	NÃO
+ Empresa 68 	 SIM 	NÃO	 WooCommerce 	2070,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 6 de março de 2018 	 SIM 	 SIM 
+ Empresa 69 	 SIM 	 SIM 	 WordPress 	1770,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 27 de agosto de 2014 	 SIM 	 SIM 
+ Empresa 70 	NÃO	NÃO	 Standard 	1350,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 19 de junho de 2019 	NÃO	NÃO
+ Empresa 71 	 SIM 	 SIM 	 WooCommerce 	1550,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 12 de dezembro de 2018 	 SIM 	 SIM 
+ Empresa 72 	 SIM 	 SIM 	 Standard 	1660,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 17 de maio de 2016 	NÃO	NÃO
+ Empresa 73 	NÃO	NÃO	 WordPress + Blog 	2470,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 28 de julho de 2017 	 SIM 	 SIM 
+ Empresa 74 	 SIM 	 SIM 	 WordPress 	1890,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 9 de janeiro de 2014 	 SIM 	 SIM 
+ Empresa 75 	NÃO	NÃO	 Standard 	1405,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 3 de setembro de 2012 	NÃO	NÃO
+ Empresa 76 	 SIM 	 SIM 	 WooCommerce 	1915,00	 TOP 	 Belém 	 PA 	 quarta-feira, 22 de março de 2017 	 SIM 	 SIM 
+ Empresa 77 	NÃO	NÃO	 WordPress + Blog 	1615,00	 TRANQUILO 	 Goiânia 	 GO 	 sexta-feira, 10 de novembro de 2019 	NÃO	NÃO
+ Empresa 78 	 SIM 	NÃO	 WooCommerce 	2050,00	 TOP 	Florianópolis	 SC 	terça-feira, 14 de agosto de 2018 	 SIM 	 SIM 
+ Empresa 79 	 SIM 	 SIM 	 WordPress 	1785,00	 TRANQUILO 	Vitória 	 ES 	 quarta-feira, 5 de maio de 2010 	 SIM 	 SIM 
+ Empresa 80 	NÃO	NÃO	 Standard 	1345,00	 CHATO 	 Belo Horizonte 	 MG 	 quinta-feira, 18 de setembro de 2014 	NÃO	NÃO
+ Empresa 81 	 SIM 	 SIM 	 WooCommerce 	1535,00	 TOP 	 Teresina 	 PI 	 quarta-feira, 3 de junho de 2015 	 SIM 	 SIM 
+ Empresa 82 	 SIM 	 SIM 	 Standard 	1645,00	 TRANQUILO 	 Recife 	 PE 	terça-feira, 7 de março de 2017 	NÃO	NÃO
+ Empresa 83 	NÃO	NÃO	 WordPress + Blog 	2445,00	 CHATO 	 Brasília 	 DF 	 sexta-feira, 22 de novembro de 2019 	 SIM 	 SIM 
+ Empresa 84 	 SIM 	 SIM 	 WordPress 	1875,00	 TRANQUILO 	 São Luís 	 MA 	 quinta-feira, 11 de agosto de 2016 	 SIM 	 SIM 
+ Empresa 85 	NÃO	NÃO	 Standard 	1401,00	 CHATO 	 Porto Alegre 	 RS 	 segunda-feira, 4 de janeiro de 2016 	NÃO	NÃO
+ Empresa 86 	 SIM 	 SIM 	 WooCommerce 	1905,00	 TOP 	 Belém 	 PA 	 quarta-feira, 27 de setembro de 2017 	 SIM 	 SIM 
+ Empresa 87 	NÃO	NÃO	 WordPress + Blog 	1625,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 9 de março de 2012 	NÃO	NÃO
+ Empresa 88 	 SIM 	NÃO	 WooCommerce 	2045,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 5 de outubro de 2015 	 SIM 	 SIM 
+ Empresa 89 	 SIM 	 SIM 	 WordPress 	1795,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 14 de julho de 2010 	 SIM 	 SIM 
+ Empresa 90 	NÃO	NÃO	 Standard 	1355,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 23 de janeiro de 2014 	NÃO	NÃO
+ Empresa 91 	 SIM 	 SIM 	 WooCommerce 	1565,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 30 de novembro de 2016 	 SIM 	 SIM 
+ Empresa 92 	 SIM 	 SIM 	 Standard 	1675,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 4 de maio de 2010 	NÃO	NÃO
+ Empresa 93 	NÃO	NÃO	 WordPress + Blog 	2485,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 8 de junho de 2018 	 SIM 	 SIM 
+ Empresa 94 	 SIM 	 SIM 	 WordPress 	1895,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 17 de março de 2011 	 SIM 	 SIM 
+ Empresa 95 	NÃO	NÃO	 Standard 	1415,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 20 de agosto de 2018 	NÃO	NÃO
+ Empresa 96 	 SIM 	 SIM 	 WooCommerce 	1910,00	 TOP 	 Belém 	 PA 	 quarta-feira, 12 de dezembro de 2012 	 SIM 	 SIM 
+ Empresa 97 	NÃO	NÃO	 WordPress + Blog 	1620,00	 TRANQUILO 	 Goiânia 	 GO 	 sexta-feira, 9 de abril de 2015 	NÃO	NÃO
+ Empresa 98 	 SIM 	 SIM 	 WooCommerce 	1565,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 30 de novembro de 2016 	 SIM 	 SIM 
+ Empresa 99 	 SIM 	 SIM 	 Standard 	1675,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 4 de maio de 2010 	NÃO	NÃO
+ Empresa 100 	NÃO	NÃO	 WordPress + Blog 	2485,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 8 de junho de 2018 	 SIM 	 SIM 
+ Empresa 101 	 SIM 	 SIM 	 WordPress 	1895,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 17 de março de 2011 	 SIM 	 SIM 
+ Empresa 102 	NÃO	NÃO	 Standard 	1415,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 20 de agosto de 2018 	NÃO	NÃO
+ Empresa 103 	 SIM 	 SIM 	 WooCommerce 	1910,00	 TOP 	 Belém 	 PA 	 quarta-feira, 12 de dezembro de 2012 	 SIM 	 SIM 
+ Empresa 104 	NÃO	NÃO	 WordPress + Blog 	1620,00	 TRANQUILO 	 Goiânia 	 GO 	 sexta-feira, 9 de abril de 2015 	NÃO	NÃO
+ Empresa 105 	 SIM 	NÃO	 WooCommerce 	2055,00	 TOP 	Florianópolis	 SC 	terça-feira, 15 de setembro de 2015 	 SIM 	 SIM 
+ Empresa 106 	 SIM 	 SIM 	 WordPress 	1795,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 14 de julho de 2014 	 SIM 	 SIM 
+ Empresa 107 	NÃO	NÃO	 Standard 	1355,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 23 de janeiro de 2014 	NÃO	NÃO
+ Empresa 108 	 SIM 	 SIM 	 WooCommerce 	1550,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 12 de dezembro de 2018 	 SIM 	 SIM 
+ Empresa 109 	 SIM 	 SIM 	 Standard 	1660,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 17 de maio de 2016 	NÃO	NÃO
+ Empresa 110 	NÃO	NÃO	 WordPress + Blog 	2470,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 28 de julho de 2017 	 SIM 	 SIM 
+ Empresa 111 	 SIM 	 SIM 	 WordPress 	1880,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 9 de janeiro de 2014 	 SIM 	 SIM 
+ Empresa 112 	NÃO	NÃO	 Standard 	1405,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 3 de setembro de 2012 	NÃO	NÃO
+ Empresa 113 	 SIM 	 SIM 	 WooCommerce 	1900,00	 TOP 	 Belém 	 PA 	 quarta-feira, 22 de março de 2017 	 SIM 	 SIM 
+ Empresa 114 	NÃO	NÃO	 WordPress + Blog 	1615,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 9 de março de 2012 	NÃO	NÃO
+ Empresa 115 	 SIM 	NÃO	 WooCommerce 	2045,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 5 de outubro de 2015 	 SIM 	 SIM 
+ Empresa 116 	 SIM 	 SIM 	 WordPress 	1795,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 14 de julho de 2010 	 SIM 	 SIM 
+ Empresa 117 	NÃO	NÃO	 Standard 	1355,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 23 de janeiro de 2014 	NÃO	NÃO
+ Empresa 118 	 SIM 	 SIM 	 WooCommerce 	1550,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 12 de dezembro de 2018 	 SIM 	 SIM 
+ Empresa 119 	 SIM 	 SIM 	 Standard 	1660,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 17 de maio de 2016 	NÃO	NÃO
+ Empresa 120 	NÃO	NÃO	 WordPress + Blog 	2470,00	 CHATO 	 Recife 	 PE 	 Sexta-feira, 28 de julho de 2017 	 SIM 	 SIM 
+ Empresa 121 	 SIM 	 SIM 	 WordPress 	1880,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 9 de janeiro de 2014 	 SIM 	 SIM 
+ Empresa 122 	NÃO	NÃO	 Standard 	1405,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 3 de setembro de 2012 	NÃO	NÃO
+ Empresa 123 	 SIM 	 SIM 	 WooCommerce 	1900,00	 TOP 	 Belém 	 PA 	 quarta-feira, 22 de março de 2017 	 SIM 	 SIM 
+ Empresa 124 	NÃO	NÃO	 WordPress + Blog 	1615,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 9 de março de 2012 	NÃO	NÃO
+ Empresa 125 	 SIM 	NÃO	 WooCommerce 	2045,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 5 de outubro de 2015 	 SIM 	 SIM 
+ Empresa 126 	 SIM 	 SIM 	 WordPress 	1795,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 14 de julho de 2010 	 SIM 	 SIM 
+ Empresa 127 	NÃO	NÃO	 Standard 	1355,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 23 de janeiro de 2014 	NÃO	NÃO
+ Empresa 128 	 SIM 	 SIM 	 WooCommerce 	1575,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 15 de março de 2017 	 SIM 	 SIM 
+ Empresa 129 	 SIM 	 SIM 	 Standard 	1685,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 20 de agosto de 2019 	NÃO	NÃO
+ Empresa 130 	NÃO	NÃO	 WordPress + Blog 	2495,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 11 de maio de 2018 	 SIM 	 SIM 
+ Empresa 131 	 SIM 	 SIM 	 WordPress 	1905,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 19 de dezembro de 2013 	 SIM 	 SIM 
+ Empresa 132 	NÃO	NÃO	 Standard 	1415,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 1 de julho de 2013 	NÃO	NÃO
+ Empresa 133 	 SIM 	 SIM 	 WooCommerce 	1925,00	 TOP 	 Belém 	 PA 	 quarta-feira, 14 de março de 2016 	 SIM 	 SIM 
+ Empresa 134 	NÃO	NÃO	 WordPress + Blog 	1635,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 6 de novembro de 2020 	NÃO	NÃO
+ Empresa 135 	 SIM 	NÃO	 WooCommerce 	2065,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 25 de setembro de 2012 	 SIM 	 SIM 
+ Empresa 136 	 SIM 	 SIM 	 WordPress 	1805,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 5 de junho de 2019 	 SIM 	 SIM 
+ Empresa 137 	NÃO	NÃO	 Standard 	1365,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 3 de abril de 2014 	NÃO	NÃO
+ Empresa 138 	 SIM 	 SIM 	 WooCommerce 	1585,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 23 de agosto de 2017 	 SIM 	 SIM 
+ Empresa 139 	 SIM 	 SIM 	 Standard 	1695,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 12 de setembro de 2016 	NÃO	NÃO
+ Empresa 140 	NÃO	NÃO	 WordPress + Blog 	2505,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 27 de julho de 2018 	 SIM 	 SIM 
+ Empresa 141 	 SIM 	 SIM 	 WordPress 	1915,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 29 de junho de 2017 	 SIM 	 SIM 
+ Empresa 142 	NÃO	NÃO	 Standard 	1425,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 15 de janeiro de 2018 	NÃO	NÃO
+ Empresa 143 	 SIM 	 SIM 	 WooCommerce 	1935,00	 TOP 	 Belém 	 PA 	 quarta-feira, 8 de dezembro de 2015 	 SIM 	 SIM 
+ Empresa 144 	NÃO	NÃO	 WordPress + Blog 	1645,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 12 de março de 2021 	NÃO	NÃO
+ Empresa 145 	 SIM 	NÃO	 WooCommerce 	2075,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 21 de novembro de 2013 	 SIM 	 SIM 
+ Empresa 146 	 SIM 	 SIM 	 WordPress 	1815,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 13 de outubro de 2010 	 SIM 	 SIM 
+ Empresa 147 	NÃO	NÃO	 Standard 	1375,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 27 de junho de 2013 	NÃO	NÃO
+ Empresa 148 	 SIM 	 SIM 	 WooCommerce 	1595,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 19 de abril de 2017 	 SIM 	 SIM 
+ Empresa 149 	 SIM 	 SIM 	 Standard 	1705,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 2 de agosto de 2016 	NÃO	NÃO
+ Empresa 150 	NÃO	NÃO	 WordPress + Blog 	2515,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 7 de setembro de 2018 	 SIM 	 SIM 
+ Empresa 151 	 SIM 	 SIM 	 WordPress 	1925,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 1 de maio de 2014 	 SIM 	 SIM 
+ Empresa 152 	NÃO	NÃO	 Standard 	1435,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 11 de março de 2019 	NÃO	NÃO
+ Empresa 153 	 SIM 	 SIM 	 WooCommerce 	1945,00	 TOP 	 Belém 	 PA 	 quarta-feira, 23 de junho de 2015 	 SIM 	 SIM 
+ Empresa 154 	NÃO	NÃO	 WordPress + Blog 	1655,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 22 de janeiro de 2021 	NÃO	NÃO
+ Empresa 155 	 SIM 	NÃO	 WooCommerce 	2085,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 30 de novembro de 2012 	 SIM 	 SIM 
+ Empresa 157 	 SIM 	 SIM 	 WooCommerce 	1605,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 22 de janeiro de 2020 	 SIM 	 SIM 
+ Empresa 158 	 SIM 	 SIM 	 Standard 	1715,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 10 de setembro de 2019 	NÃO	NÃO
+ Empresa 159 	NÃO	NÃO	 WordPress + Blog 	2525,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 3 de agosto de 2018 	 SIM 	 SIM 
+ Empresa 160 	 SIM 	 SIM 	 WordPress 	1935,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 17 de dezembro de 2015 	 SIM 	 SIM 
+ Empresa 161 	NÃO	NÃO	 Standard 	1445,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 3 de junho de 2019 	NÃO	NÃO
+ Empresa 162 	 SIM 	 SIM 	 WooCommerce 	1955,00	 TOP 	 Belém 	 PA 	 quarta-feira, 15 de agosto de 2016 	 SIM 	 SIM 
+ Empresa 163 	NÃO	NÃO	 WordPress + Blog 	1665,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 1 de novembro de 2019 	NÃO	NÃO
+ Empresa 164 	 SIM 	NÃO	 WooCommerce 	2095,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 11 de outubro de 2018 	 SIM 	 SIM 
+ Empresa 165 	 SIM 	 SIM 	 WordPress 	1855,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 8 de janeiro de 2014 	 SIM 	 SIM 
+ Empresa 166 	NÃO	NÃO	 Standard 	1385,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 19 de maio de 2016 	NÃO	NÃO
+ Empresa 167 	 SIM 	 SIM 	 WooCommerce 	1615,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 11 de dezembro de 2019 	 SIM 	 SIM 
+ Empresa 168 	 SIM 	 SIM 	 Standard 	1725,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 25 de março de 2014 	NÃO	NÃO
+ Empresa 169 	NÃO	NÃO	 WordPress + Blog 	2535,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 12 de julho de 2019 	 SIM 	 SIM 
+ Empresa 170 	 SIM 	 SIM 	 WordPress 	1945,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 30 de setembro de 2013 	 SIM 	 SIM 
+ Empresa 171 	NÃO	NÃO	 Standard 	1455,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 6 de janeiro de 2014 	NÃO	NÃO
+ Empresa 172 	 SIM 	 SIM 	 WooCommerce 	1965,00	 TOP 	 Belém 	 PA 	 quarta-feira, 4 de setembro de 2019 	 SIM 	 SIM 
+ Empresa 173 	NÃO	NÃO	 WordPress + Blog 	1685,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 22 de agosto de 2014 	NÃO	NÃO
+ Empresa 174 	 SIM 	NÃO	 WooCommerce 	2105,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 5 de outubro de 2021 	 SIM 	 SIM 
+ Empresa 175 	 SIM 	 SIM 	 WordPress 	1865,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 3 de dezembro de 2014 	 SIM 	 SIM 
+ Empresa 176 	NÃO	NÃO	 Standard 	1395,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 8 de maio de 2017 	NÃO	NÃO
+ Empresa 177 	 SIM 	 SIM 	 WooCommerce 	1625,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 2 de outubro de 2019 	 SIM 	 SIM 
+ Empresa 178 	 SIM 	 SIM 	 Standard 	1735,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 19 de abril de 2016 	NÃO	NÃO
+ Empresa 179 	NÃO	NÃO	 WordPress + Blog 	2545,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 14 de agosto de 2020 	 SIM 	 SIM 
+ Empresa 180 	 SIM 	 SIM 	 WordPress 	1955,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 6 de junho de 2013 	 SIM 	 SIM 
+ Empresa 181 	NÃO	NÃO	 Standard 	1465,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 15 de setembro de 2014 	NÃO	NÃO
+ Empresa 182 	 SIM 	 SIM 	 WooCommerce 	1975,00	 TOP 	 Belém 	 PA 	 quarta-feira, 18 de dezembro de 2019 	 SIM 	 SIM 
+ Empresa 183 	NÃO	NÃO	 WordPress + Blog 	1685,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 5 de junho de 2015 	NÃO	NÃO
+ Empresa 184 	 SIM 	NÃO	 WooCommerce 	2115,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 1 de março de 2016 	 SIM 	 SIM 
+ Empresa 185 	 SIM 	 SIM 	 WordPress 	1875,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 27 de janeiro de 2010 	 SIM 	 SIM 
+ Empresa 186 	NÃO	NÃO	 Standard 	1405,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 18 de setembro de 2018 	NÃO	NÃO
+ Empresa 187 	 SIM 	 SIM 	 WooCommerce 	1635,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 2 de dezembro de 2020 	 SIM 	 SIM 
+ Empresa 188 	 SIM 	 SIM 	 Standard 	1745,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 14 de janeiro de 2020 	NÃO	NÃO
+ Empresa 189 	NÃO	NÃO	 WordPress + Blog 	2555,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 21 de maio de 2021 	 SIM 	 SIM 
+ Empresa 190 	 SIM 	 SIM 	 WordPress 	1965,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 19 de novembro de 2015 	 SIM 	 SIM 
+ Empresa 191 	NÃO	NÃO	 Standard 	1475,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 9 de fevereiro de 2015 	NÃO	NÃO
+ Empresa 192 	 SIM 	 SIM 	 WooCommerce 	1985,00	 TOP 	 Belém 	 PA 	 quarta-feira, 27 de julho de 2016 	 SIM 	 SIM 
+ Empresa 193 	NÃO	NÃO	 WordPress + Blog 	1695,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 8 de agosto de 2014 	NÃO	NÃO
+ Empresa 194 	 SIM 	NÃO	 WooCommerce 	2125,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 10 de outubro de 2017 	 SIM 	 SIM 
+ Empresa 195 	 SIM 	 SIM 	 WordPress 	1885,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 18 de julho de 2012 	 SIM 	 SIM 
+ Empresa 196 	NÃO	NÃO	 Standard 	1415,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 11 de outubro de 2018 	NÃO	NÃO
+ Empresa 197 	 SIM 	 SIM 	 WooCommerce 	1645,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 6 de março de 2019 	 SIM 	 SIM 
+ Empresa 198 	 SIM 	 SIM 	 Standard 	1755,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 1 de setembro de 2020 	NÃO	NÃO
+ Empresa 199 	NÃO	NÃO	 WordPress + Blog 	2565,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 13 de março de 2020 	 SIM 	 SIM 
+ Empresa 200 	 SIM 	 SIM 	 WordPress 	1975,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 14 de julho de 2016 	 SIM 	 SIM 
+ Empresa 201 	NÃO	NÃO	 Standard 	1485,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 26 de dezembro de 2016 	NÃO	NÃO
+ Empresa 202 	 SIM 	 SIM 	 WooCommerce 	1995,00	 TOP 	 Belém 	 PA 	 quarta-feira, 5 de outubro de 2022 	 SIM 	 SIM 
+ Empresa 203 	NÃO	NÃO	 WordPress + Blog 	1705,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 22 de maio de 2020 	NÃO	NÃO
+ Empresa 204 	 SIM 	NÃO	 WooCommerce 	2135,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 12 de janeiro de 2016 	 SIM 	 SIM 
+ Empresa 205 	 SIM 	 SIM 	 WordPress 	1895,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 23 de setembro de 2015 	 SIM 	 SIM 
+ Empresa 206 	NÃO	NÃO	 Standard 	1425,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 1 de novembro de 2018 	NÃO	NÃO
+ Empresa 207 	 SIM 	 SIM 	 WooCommerce 	1655,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 7 de setembro de 2022 	 SIM 	 SIM 
+ Empresa 208 	 SIM 	 SIM 	 Standard 	1765,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 2 de dezembro de 2021 	NÃO	NÃO
+ Empresa 209 	NÃO	NÃO	 WordPress + Blog 	2575,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 24 de janeiro de 2020 	 SIM 	 SIM 
+ Empresa 210 	 SIM 	 SIM 	 WordPress 	1985,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 10 de julho de 2017 	 SIM 	 SIM 
+ Empresa 211 	NÃO	NÃO	 Standard 	1495,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 28 de outubro de 2019 	NÃO	NÃO
+ Empresa 212 	 SIM 	 SIM 	 WooCommerce 	2005,00	 TOP 	 Belém 	 PA 	 quarta-feira, 17 de março de 2021 	 SIM 	 SIM 
+ Empresa 213 	NÃO	NÃO	 WordPress + Blog 	1715,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 16 de junho de 2017 	NÃO	NÃO
+ Empresa 214 	 SIM 	NÃO	 WooCommerce 	2145,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 3 de agosto de 2021 	 SIM 	 SIM 
+ Empresa 215 	 SIM 	 SIM 	 WordPress 	1905,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 4 de janeiro de 2017 	 SIM 	 SIM 
+ Empresa 216 	NÃO	NÃO	 Standard 	1435,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 19 de novembro de 2020 	NÃO	NÃO
+ Empresa 217 	 SIM 	 SIM 	 WooCommerce 	1665,00	 TOP 	 Salvador 	 BA 	 quarta-feira, 28 de junho de 2022 	 SIM 	 SIM 
+ Empresa 218 	 SIM 	 SIM 	 Standard 	1775,00	 TRANQUILO 	 Porto Velho 	 RO 	terça-feira, 15 de agosto de 2022 	NÃO	NÃO
+ Empresa 219 	NÃO	NÃO	 WordPress + Blog 	2585,00	 CHATO 	 Recife 	 PE 	 sexta-feira, 11 de novembro de 2022 	 SIM 	 SIM 
+ Empresa 220 	 SIM 	 SIM 	 WordPress 	1995,00	 TRANQUILO 	 São Paulo 	 SP 	 quinta-feira, 27 de setembro de 2018 	 SIM 	 SIM 
+ Empresa 221 	NÃO	NÃO	 Standard 	1505,00	 CHATO 	 Fortaleza 	 CE 	 segunda-feira, 12 de janeiro de 2015 	NÃO	NÃO
+ Empresa 222 	 SIM 	 SIM 	 WooCommerce 	2015,00	 TOP 	 Belém 	 PA 	 quarta-feira, 6 de abril de 2022 	 SIM 	 SIM 
+ Empresa 223 	NÃO	NÃO	 WordPress + Blog 	1725,00	 TRANQUILO 	 Aracaju 	 SE 	 sexta-feira, 23 de dezembro de 2022 	NÃO	NÃO
+ Empresa 224 	 SIM 	NÃO	 WooCommerce 	2155,00	 TOP 	 Cuiabá 	 MT 	terça-feira, 28 de julho de 2020 	 SIM 	 SIM 
+ Empresa 225 	 SIM 	 SIM 	 WordPress 	1915,00	 TRANQUILO 	 Natal 	 RN 	 quarta-feira, 31 de março de 2021 	 SIM 	 SIM 
+ Empresa 226 	NÃO	NÃO	 Standard 	1445,00	 CHATO 	 Manaus 	 AM 	 quinta-feira, 14 de maio de 2015 	NÃO	NÃO

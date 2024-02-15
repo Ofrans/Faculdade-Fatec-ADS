@@ -1,9 +1,0 @@
-* Antes de começar a programar, é essencial estruturar como será o projeto todo antes de começar a "codar".
-
-Estruturas de decisão (condicionais) {
-    - Se(){}
-    - Senão se(){}
-    - Senão(){}
-}
-
-link yt: https://www.youtube.com/watch?v=_JHAdHycVys

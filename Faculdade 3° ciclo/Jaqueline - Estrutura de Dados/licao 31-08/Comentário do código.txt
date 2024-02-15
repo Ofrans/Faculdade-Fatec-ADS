@@ -1,0 +1,147 @@
+Claro, vou comentar o que cada linha do código faz:
+
+```javascript
+// Função para gerar um vetor aleatório de tamanho n
+function gerarVetorAleatorio(tamanho) {
+  let vetor = [];
+  for (let i = 0; i < tamanho; i++) {
+    vetor.push(Math.floor(Math.random() * tamanho));
+  }
+  return vetor;
+}
+```
+Esta função `gerarVetorAleatorio` cria um vetor de tamanho `tamanho` e preenche-o com valores inteiros aleatórios entre 0 (inclusive) e `tamanho` (exclusivo).
+
+```javascript
+// Função para gerar um vetor ordenado de tamanho n
+function gerarVetorOrdenado(tamanho) {
+  let vetor = [];
+  for (let i = 0; i < tamanho; i++) {
+    vetor.push(i);
+  }
+  return vetor;
+}
+```
+Aqui, a função `gerarVetorOrdenado` gera um vetor de tamanho `tamanho` com valores inteiros sequenciais começando de 0 até `tamanho - 1`, ou seja, cria um vetor ordenado.
+
+```javascript
+// Função para gerar um vetor invertido de tamanho n
+function gerarVetorInvertido(tamanho) {
+  const vetor = [];
+  for (let i = tamanho - 1; i >= 0; i--) {
+    vetor.push(i);
+  }
+  return vetor;
+}
+```
+Esta função `gerarVetorInvertido` produz um vetor de tamanho `tamanho` com valores inteiros em ordem decrescente, começando de `tamanho - 1` e indo até 0.
+
+```javascript
+// Implementação do Bubble Sort
+function bubbleSort(vetor) {
+  let n = vetor.length;
+  for (let i = 0; i < n - 1; i++) {
+    for (let j = 0; j < n - i - 1; j++) {
+      if (vetor[j] > vetor[j + 1]) {
+        let temp = vetor[j];
+        vetor[j] = vetor[j + 1];
+        vetor[j + 1] = temp;
+      }
+    }
+  }
+  return vetor;
+}
+```
+O `bubbleSort` é um algoritmo de ordenação. Ele percorre o vetor comparando elementos adjacentes e os troca se estiverem fora de ordem, fazendo com que os maiores valores "flutuem" para o final do vetor.
+
+```javascript
+// Implementação do Selection Sort
+function selectionSort(vetor) {
+  let n = vetor.length;
+  for (let i = 0; i < n - 1; i++) {
+    let indiceMinimo = i;
+    for (let j = i + 1; j < n; j++) {
+      if (vetor[j] < vetor[indiceMinimo]) {
+        indiceMinimo = j;
+      }
+    }
+    const temp = vetor[i];
+    vetor[i] = vetor[indiceMinimo];
+    vetor[indiceMinimo] = temp;
+  }
+  return vetor;
+}
+```
+O `selectionSort` é outro algoritmo de ordenação. Ele encontra o menor valor não ordenado no vetor e o troca com o elemento na posição atual, movendo gradualmente os menores valores para o início do vetor.
+
+```javascript
+// Implementação do Insertion Sort
+function insertionSort(vetor) {
+  const n = vetor.length;
+  for (let i = 1; i < n; i++) {
+    const atual = vetor[i];
+    let j = i - 1;
+    while (j >= 0 && vetor[j] > atual) {
+      vetor[j + 1] = vetor[j];
+      j--;
+    }
+    vetor[j + 1] = atual;
+  }
+  return vetor;
+}
+```
+O `insertionSort` é um algoritmo que constrói uma parte ordenada do vetor, inserindo elementos não ordenados na posição correta dessa parte ordenada.
+
+```javascript
+// Função para medir o tempo de execução de uma função de ordenação
+function medirTempo(funcaoOrdenacao, vetor) {
+  const tempoInicial = new Date().getTime();
+  funcaoOrdenacao(vetor);
+  const tempoFinal = new Date().getTime();
+  return tempoFinal - tempoInicial;
+}
+```
+A função `medirTempo` recebe uma função de ordenação e um vetor, mede o tempo de execução dessa função sobre o vetor e retorna o tempo decorrido em milissegundos.
+
+```javascript
+function main(){
+  // Tamanhos dos vetores
+  const tamanhoVetor = 1000;
+
+  // Geração dos vetores
+  const vetorAleatorio = gerarVetorAleatorio(tamanhoVetor);
+  const vetorOrdenado = gerarVetorOrdenado(tamanhoVetor);
+  const vetorInvertido = gerarVetorInvertido(tamanhoVetor);
+
+  // Medição de tempo e execução das ordenações
+  const tempoBubbleSortAleatorio = medirTempo(bubbleSort, vetorAleatorio.slice());
+  const tempoSelectionSortAleatorio = medirTempo(selectionSort, vetorAleatorio.slice());
+  const tempoInsertionSortAleatorio = medirTempo(insertionSort, vetorAleatorio.slice());
+
+  const tempoBubbleSortOrdenado = medirTempo(bubbleSort, vetorOrdenado.slice());
+  const tempoSelectionSortOrdenado = medirTempo(selectionSort, vetorOrdenado.slice());
+  const tempoInsertionSortOrdenado = medirTempo(insertionSort, vetorOrdenado.slice());
+
+  const tempoBubbleSortInvertido = medirTempo(bubbleSort, vetorInvertido.slice());
+  const tempoSelectionSortInvertido = medirTempo(selectionSort, vetorInvertido.slice());
+  const tempoInsertionSortInvertido = medirTempo(insertionSort, vetorInvertido.slice());
+
+  // Resultados (saída no console)
+  console.log("Vetor Aleatório:");
+  console.log("Bubble Sort:", tempoBubbleSortAleatorio, "ms");
+  console.log("Seleção direta:", tempoSelectionSortAleatorio, "ms");
+  console.log("Inserção direta:", tempoInsertionSortAleatorio, "ms");
+
+  console.log("\nVetor Ordenado:");
+  console.log("Bubble Sort:", tempoBubbleSortOrdenado, "ms");
+  console.log("Seleção Direta:", tempoSelectionSortOrdenado, "ms");
+  console.log("Inserção Direta:", tempoInsertionSortOrdenado, "ms");
+
+  console.log("\nVetor Invertido:");
+  console.log("Bubble Sort:", tempoBubbleSortInvertido, "ms");
+  console.log("Seleção Direta:", tempoSelectionSortInvertido, "ms");
+  console.log("Inserção direta:", tempoInsertionSortInvertido, "ms");
+}
+main()
+```
+A função `main` é onde o programa é executado. Ela define o tamanho dos vetores, gera vetores aleatórios,

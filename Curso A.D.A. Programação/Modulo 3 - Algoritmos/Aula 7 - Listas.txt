@@ -1,7 +1,0 @@
-* utilizamos array(s) para evitar criar muitas variaveis no codigo
-
-Array = Armazenar uma sequência de dados, na ordem que são colocados na lista.
-
-* Gerealmente utilizamos arrays junto com estruturas de repetição
-
-link yt: https://www.youtube.com/watch?v=jS2kLorLmko

@@ -1,0 +1,17 @@
+1. Compare alocação estática com alocação dinâmica, citando vantagens e desvantagens.
+2. Defina pilha e fila. Cite um exemplo de utilização, na computação, para cada uma destas estruturas de dados (pilha e fila). 
+
+Usando somente as operações em pilha (push, pop, cheia_P e vazia_P) e fila (inserir, remover, cheia_F e vazia_F), escreva uma função em JavaScript que, remova todos os elementos de uma fila, os insira em pilha, e, por fim, retorne o topo da pilha. A função deve passar a fila como parâmetro. Qual elemento será retornado?
+3. ﻿Em relação a hashing, por que é necessário tratar colisões? Como resolver colisão? 
+
+Desenhe o conteúdo da tabela hash resultante da inserção das chaves: S  I  T  E  M  R  D  N  F, nesta ordem, em uma tabela inicialmente vazia de tamanho 7, usando lista encadeada.
+
+4. Sobre árvores, faça:
+
+a) Insira os seguintes elementos, nesta ordem, em uma Árvore de Busca Binária e mostrar a árvore resultante:  4   7   1   2   6   9   8   3. Dizer se a árvore é balanceada ou não (justifique sua resposta).
+
+b) Desenhe a árvore que representa a expressão aritmética:  (a + b / c) * (d – e).
+
+c) Insira, em uma Árvore AVL, os nós 10, 4, 12, 2, 8, 5, 15 (nesta ordem) e mostre a árvore resultante, e qual a rotação utilizada (quando necessária).
+
+d) Insira, em uma Árvore B (com número de chaves:  mínimo = 1 e máximo = 3), as chaves 2, 7, 1, 3, 6, 9, 8, 4, na ordem apresentada, e mostre a árvore após todas as inserções.

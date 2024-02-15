@@ -1,0 +1,32 @@
+Conteúdos:
+    1 - Conceitos básicos 
+    2 - População/ Amostra
+    3 - Térmicas  de Amostragem
+    4 - Frequências/Gráficos
+    5 - Média/Moda/Mediana
+    6 - Separatrizes
+    7 - Desvio Padrão
+    8 - Assimetria e Curtose
+    9 - Probalidades
+    10 - Correlação e Regressão
+    11 - Refência Estatistica
+
+1° Bimestre - Estatistica Descrtitiva
+2° Bimestre - Estatística Preditiva
+
+Dados Passado (Histórico)                 Futura Previsão
+    [____________________________________________]
+
+Alguns Conceitos:
+    - Utilizar I.A. para a identificação de padrões
+    - Na I.A. por meio da mineração de dados se obtem padrões
+    - Big Data refere-se à quantidade exorbitante de dados produzidos diariamente
+
+Análise:
+    -> Estatística
+    -> Tecnologia
+    -> Regra de negócios
+
+* Ver os filmes:  
+    - "O Homem que mudou o jogo" no final de semana
+    - "Minority Report"

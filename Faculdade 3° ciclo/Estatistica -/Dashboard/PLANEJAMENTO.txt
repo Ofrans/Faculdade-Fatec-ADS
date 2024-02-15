@@ -1,0 +1,49 @@
+Aba inicial que direciona para o resto
+
+
+tipo de site (qualitativo)
+ - filtro por tipo
+ - filtro por estado
+ - filtro por data
+ - contador de numeros de sites
+ - tipo de site mais vendido (ver como fazer)
+
+Aba usando 3+ avaliações do google (junto otimizado) (qualitativo)
+ - gráfico com SIM e NÃO (porcentagem)
+ - filtro tipo
+ - filtro por estado
+ - filtro por data
+ - contador de SIM (para oferecer otimização)
+
+Aba Dinherio investido/Valor (fazer um gráfico para mostrar retorno/investimento) (quantitativo)
+ - filtro por valor (filtrar por valor recebido)
+ - filtro por estado
+ - filtro por data
+ - fazer gráfico com valor (y), dinheiro investido (x)
+ - mostrar menor valor investido/maior lucro (menor lucro investido recebendo maior lucro)
+
+Aba usando tipo de cliente (mostrar onde há mais clientes bons) (qualitativo)
+ - gráfico com TOP,TRANQUILO,CHATO (porcentagem)
+ - filtro tipo
+ - filtro por estado
+ - filtro por data
+ - contador de TOP por estado 
+ - contador de CHATO por estado
+
+Aba usando guia (para oferecer o guia) (qualitativo)
+ - gráfico com SIM e NÃO
+ - filtro tipo
+ - filtro por estado
+ - filtro por data
+ - contador de SIM (para oferecer guia)
+
+Aba usando empresa (mostar empresa que mais gerou lucro) (qualitativo)
+ - caixa mostrando a que mais deu retorno
+ - filtro por estado
+ - filtro por data
+
+Media (colocar em todas as paginas)
+Moda (colocar em todas as paginas)
+Mediana (colocar em todas as paginas)
+Desvio Padrão (colocar em todas as paginas)
+Craydec Regression (colocar em todas as paginas)

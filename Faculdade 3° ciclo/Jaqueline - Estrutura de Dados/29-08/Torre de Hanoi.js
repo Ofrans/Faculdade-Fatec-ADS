@@ -1,0 +1,1 @@
+function torreHanoi(numero,objetivo,auxiliar)

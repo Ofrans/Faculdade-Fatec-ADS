@@ -1,0 +1,49 @@
+Método Bubblesort:
+25 57 48 37 12 92 86 33   // Começamos com o array desordenado.
+25 48 57 37 12 92 86 33   // Troca 57 e 48, pois 57 é maior que 48.
+25 48 37 57 12 92 86 33   // Troca 48 e 37, pois 48 é maior que 37.
+25 48 37 12 57 92 86 33   // Troca 57 e 12, pois 57 é maior que 12.
+25 48 37 12 57 86 92 33   // Troca 92 e 33, pois 92 é maior que 33.
+25 48 37 12 57 86 33 92   // Troca 92 e 33, pois 92 é maior que 33.
+25 48 37 12 57 86 33 92   // Nenhuma troca é necessária nesta iteração.
+25 37 48 12 57 86 33 92   // Troca 48 e 37, pois 48 é maior que 37.
+25 37 12 48 57 86 33 92   // Troca 48 e 12, pois 48 é maior que 12.
+25 37 12 48 57 33 86 92   // Troca 57 e 33, pois 57 é maior que 33.
+25 37 12 48 33 57 86 92   // Troca 57 e 33, pois 57 é maior que 33.
+25 12 37 48 33 57 86 92   // Troca 37 e 12, pois 37 é maior que 12.
+12 25 37 48 33 57 86 92   // Troca 25 e 12, pois 25 é maior que 12.
+12 25 37 48 33 57 86 92   // Nenhuma troca é necessária nesta iteração.
+
+
+Método Seleção Direta:
+25 57 48 37 12 92 86 33   // Começamos com o array desordenado.
+12 57 48 37 25 92 86 33   // Seleciona o menor elemento (12) e coloca na primeira posição.
+12 25 48 37 57 92 86 33   // Seleciona o próximo menor elemento (25) e coloca na segunda posição.
+12 25 33 48 57 92 86 37   // Seleciona o próximo menor elemento (33) e coloca na terceira posição.
+12 25 33 37 57 92 86 48   // Seleciona o próximo menor elemento (37) e coloca na quarta posição.
+12 25 33 37 48 92 86 57   // Seleciona o próximo menor elemento (48) e coloca na quinta posição.
+12 25 33 37 48 57 86 92   // Seleciona o próximo menor elemento (57) e coloca na sexta posição.
+12 25 33 37 48 57 86 92   // Nenhuma troca é necessária nesta iteração.
+
+
+Método Inserção Direta:
+25 57 48 37 12 92 86 33   // Começamos com o array desordenado.
+25 48 57 37 12 92 86 33   // Insere 48 na posição correta.
+25 37 48 57 12 92 86 33   // Insere 37 na posição correta.
+25 37 48 12 57 92 86 33   // Insere 12 na posição correta.
+25 12 37 48 57 92 86 33   // Insere 12 na posição correta.
+12 25 37 48 57 92 86 33   // Insere 25 na posição correta.
+12 25 37 48 57 86 92 33   // Insere 86 na posição correta.
+12 25 37 48 57 86 33 92   // Insere 33 na posição correta.
+12 25 37 48 57 33 86 92   // Insere 33 na posição correta.
+12 25 37 48 33 57 86 92   // Insere 33 na posição correta.
+12 25 37 33 48 57 86 92   // Insere 37 na posição correta.
+12 25 33 37 48 57 86 92   // Insere 33 na posição correta.
+12 25 33 37 48 57 86 92   // Nenhuma inserção é necessária nesta iteração.
+
+
+Método Quicksort:
+25 57 48 37 12 92 86 33   // Começamos com o array desordenado.
+12 25 48 37 57 92 86 33   // Pivot: 25, elementos menores à esquerda, maiores à direita.
+12 25 33 37 48 92 86 57   // Pivot: 48, elementos menores à esquerda, maiores à direita.
+12 25 33 37 48 57 86 92   // Pivot: 37, elementos menores à esquerda, maiores à direita.

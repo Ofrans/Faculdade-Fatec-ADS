@@ -1,0 +1,11 @@
+ Nome da Empresa 	PAGO	GUIA	TIPO DE SITE	VALOR DO SITE	TIPO DE CLIENTE	CIDADE	ESTADO	INICIO DE CONTRATO	OTIMIZADO	 3 AVALIA«’ES NO GOOGLE
+ Empresa 1       	 SIM      	 SIM      	 WooCommerce 	1500	 TOP      	S„o Paulo	 SP  	 quarta-feira, 10 de mar√ßo de 2010 	 SIM 	 SIM 
+ Empresa 2       	 SIM      	 SIM      	 Standard 	1700	 TRANQUILO 	 Rio de Janeiro   	 RJ  	 ter√ßa-feira, 5 de maio de 2015  	N√O	N√O
+ Empresa 3       	N√O	N√O	 WordPress + Blog 	2500	 CHATO 	 Belo Horizonte  	 MG  	 sexta-feira, 20 de julho de 2012 	 SIM 	 SIM 
+ Empresa 4       	 SIM      	 SIM      	 WordPress 	1800	 TRANQUILO 	 Salvador       	 BA  	 quinta-feira, 15 de setembro de 2011 	N√O	 SIM 
+ Empresa 5       	N√O	N√O	 Standard 	1400	 CHATO 	Brasilia	 DF  	 segunda-feira, 3 de novembro de 2008 	 SIM 	N√O
+ Empresa 6       	 SIM      	 SIM      	 WooCommerce 	1900	 TOP 	 Porto Alegre     	 RS  	 quarta-feira, 12 de dezembro de 2013 	 SIM 	 SIM 
+ Empresa 7       	N√O	N√O	 WordPress + Blog 	1600	 TRANQUILO 	 Curitiba     	 PR  	 sexta-feira, 7 de setembro de 2018 	N√O	N√O
+ Empresa 8       	 SIM      	N√O	 WooCommerce 	2200	 TOP 	Goiania	 GO  	 ter√ßa-feira, 21 de junho de 2016 	 SIM 	 SIM 
+ Empresa 9       	 SIM      	 SIM      	 WordPress 	1750	 TRANQUILO 	 Recife         	 PE  	 quarta-feira, 14 de maio de 2014 	 SIM 	 SIM 
+ Empresa 10      	N√O	N√O	 Standard 	1300	 CHATO 	 Manaus         	 AM  	 quinta-feira, 9 de outubro de 2019 	N√O	N√O

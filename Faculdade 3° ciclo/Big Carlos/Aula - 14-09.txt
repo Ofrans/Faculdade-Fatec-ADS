@@ -1,0 +1,15 @@
+Clareza das definições do Ministério da Educação Brasileiro:
+- O Ministério da Educação Brasileiro define várias disciplinas relacionadas à computação, como Ciência da Computação, Licenciatura em Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação e Engenharia de Software.
+
+Importância dos sistemas de informação como subsistema estratégico:
+- Os sistemas de informação são considerados subsistemas estratégicos nas organizações, não operando de forma isolada, mas interligados aos demais componentes do sistema.
+
+Ênfase na gestão da informação para o sucesso empresarial:
+- O texto ressalta a relevância da gestão da informação como fator crítico para o sucesso de um negócio.
+
+Considerações sobre preocupações sociais nos sistemas de informação nos negócios:
+- Preocupações sociais envolvem questões como a escolha dos processos a serem implantados.
+- Avaliação da capacidade do sistema de TI para atender às necessidades da empresa.
+- Identificação das partes mais impactadas pelas mudanças decorrentes dos sistemas de informação.
+- Determinação dos líderes das equipes envolvidas nos sistemas.
+- Análise da cultura da empresa e das possíveis resistências à implementação dos sistemas de informação.

@@ -1,0 +1,47 @@
+A) 6%
+	240 - 8
+	todos - 24
+
+B) 
+	Menos que 290,00 - 17
+	qualquer outro - 7
+	todos	       - 24
+	
+	17/x * 24/100 = (17*100)/(24*x) = 17000/24 = 70.83%
+
+C)  
+	Entre 280,00 e 300,00 - 10
+	Todos		      - 24
+
+	10/x * 24/100 = (10*100)/(24*x) = 1000/24 = 41,66%
+
+D)
+	Media =  265,42 
+	Modo =  240,00 
+	Mediana =  255,00 
+	Desvio padrão =  24,36 
+	Assimetria =  0,35 
+	Curtose = -1,60 
+	Percentil 30 =  240,00 
+	Quintil 4 = Posição = (4/10) * (24+1) = (4/10) * 25 = 240,00
+
+2)
+
+	A)
+	
+	Média =  31,82 
+	Moda =  25,00 
+	Mediana =  28,00 
+	Assimetria =  1,42 
+	Curtose =  1,22 
+	Desvio Padrão =  10,15 
+
+	B)
+
+	
+
+3) Opção (a)
+
+
+
+ 

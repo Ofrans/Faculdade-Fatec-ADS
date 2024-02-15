@@ -1,0 +1,59 @@
+O código que você forneceu é um programa em JavaScript que realiza a implementação e comparação de três algoritmos de ordenação diferentes: Bubble Sort, Selection Sort e Insertion Sort. O programa mede o tempo de execução de cada algoritmo em três tipos diferentes de vetores: aleatório, ordenado e invertido. Abaixo, você encontrará a documentação para o código:
+
+### Função `gerarVetorAleatorio(tamanho)`
+
+Essa função gera um vetor de números inteiros aleatórios de tamanho especificado.
+
+- `tamanho`: Tamanho do vetor que será gerado.
+- Retorna: Um vetor de números inteiros aleatórios.
+
+### Função `gerarVetorOrdenado(tamanho)`
+
+Essa função gera um vetor de números inteiros ordenados em ordem crescente, começando de 0 até o tamanho especificado.
+
+- `tamanho`: Tamanho do vetor que será gerado.
+- Retorna: Um vetor de números inteiros ordenados em ordem crescente.
+
+### Função `gerarVetorInvertido(tamanho)`
+
+Essa função gera um vetor de números inteiros ordenados em ordem decrescente, começando do tamanho especificado até 0.
+
+- `tamanho`: Tamanho do vetor que será gerado.
+- Retorna: Um vetor de números inteiros ordenados em ordem decrescente.
+
+### Função `bubbleSort(vetor)`
+
+Essa função implementa o algoritmo Bubble Sort para ordenar um vetor de números inteiros.
+
+- `vetor`: O vetor que será ordenado pelo algoritmo.
+- Retorna: O vetor ordenado.
+
+### Função `selectionSort(vetor)`
+
+Essa função implementa o algoritmo Selection Sort para ordenar um vetor de números inteiros.
+
+- `vetor`: O vetor que será ordenado pelo algoritmo.
+- Retorna: O vetor ordenado.
+
+### Função `insertionSort(vetor)`
+
+Essa função implementa o algoritmo Insertion Sort para ordenar um vetor de números inteiros.
+
+- `vetor`: O vetor que será ordenado pelo algoritmo.
+- Retorna: O vetor ordenado.
+
+### Função `medirTempo(funcaoOrdenacao, vetor)`
+
+Essa função mede o tempo de execução de uma função de ordenação especificada, aplicada a um vetor dado.
+
+- `funcaoOrdenacao`: A função de ordenação que será testada.
+- `vetor`: O vetor que será ordenado pela função de ordenação.
+- Retorna: O tempo de execução em milissegundos.
+
+### Função `main()`
+
+Essa função é o ponto de entrada do programa. Ela gera três tipos diferentes de vetores, mede o tempo de execução de cada algoritmo de ordenação em cada tipo de vetor e imprime os resultados na console.
+
+No final, o programa imprime os tempos de execução dos algoritmos de ordenação nos três tipos de vetores (aleatório, ordenado e invertido) para fins de comparação.
+
+Lembre-se de que o código faz uma comparação do desempenho desses algoritmos em termos de tempo de execução, mas em cenários de produção, a escolha do algoritmo de ordenação deve levar em consideração outros fatores, como a complexidade do algoritmo, a quantidade de dados, o uso de memória e a necessidade de estabilidade na ordenação.

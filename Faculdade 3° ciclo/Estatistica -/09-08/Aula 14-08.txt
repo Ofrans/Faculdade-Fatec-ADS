@@ -1,0 +1,22 @@
+* Estatistica, através de seus métodos, serve para [gerar informações], através dos dados, para que possamos
+tomar decisões
+
+Dados: 
+    - Registrar --  Papel, Planilhas Excel, Softwares, ERPs, Questionários On-line
+    - Anotar     |  
+    - Escrever  --
+
+  Big Date
+Mineração de Dados
+      |
+      |
+      ------------> Tratamento ---------> Análise
+                        (ETL)
+
+
+Passos da Estatistica: 
+    - 1° Coleta de dos dados (Obtenção dos dados)
+    - 2° Tratamento (Banco de dados)
+    - 3° Análise: 
+        * Conjunto todo dos dados obtidos
+        * Parte do conjunto de todos os dados obtidos

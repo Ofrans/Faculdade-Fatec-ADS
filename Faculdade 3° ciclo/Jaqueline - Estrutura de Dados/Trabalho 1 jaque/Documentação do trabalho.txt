@@ -1,0 +1,79 @@
+Aqui está a documentação do código fornecido, explicando as principais funções e como elas são usadas:
+
+---
+
+## Documentação do Código de Ordenação
+
+### Introdução
+
+Este código implementa algoritmos de ordenação, como Bubble Sort, Selection Sort, Insertion Sort e Quick Sort, e mede o tempo de execução desses algoritmos para diferentes tipos de vetores: aleatório, crescente e decrescente.
+
+### Funções Principais
+
+#### `gerarVetorAleatorio(tamanho)`
+
+- **Descrição**: Gera um vetor de números inteiros aleatórios de tamanho especificado.
+- **Parâmetros**:
+  - `tamanho` (int): Tamanho do vetor a ser gerado.
+- **Retorno**: Um vetor de números inteiros aleatórios.
+
+#### `gerarVetorCrescente(tamanho)`
+
+- **Descrição**: Gera um vetor de números inteiros em ordem crescente de 0 a `tamanho - 1`.
+- **Parâmetros**:
+  - `tamanho` (int): Tamanho do vetor a ser gerado.
+- **Retorno**: Um vetor de números inteiros em ordem crescente.
+
+#### `gerarVetorDecrescente(tamanho)`
+
+- **Descrição**: Gera um vetor de números inteiros em ordem decrescente de `tamanho - 1` a 0.
+- **Parâmetros**:
+  - `tamanho` (int): Tamanho do vetor a ser gerado.
+- **Retorno**: Um vetor de números inteiros em ordem decrescente.
+
+#### Algoritmos de Ordenação
+
+Os algoritmos de ordenação implementados são os seguintes:
+
+- `bubbleSort(vetor)`: Implementação do Bubble Sort.
+- `selectionSort(vetor)`: Implementação do Selection Sort.
+- `insertionSort(vetor)`: Implementação do Insertion Sort.
+- `quickSort(vetor)`: Implementação do Quick Sort.
+
+Cada uma dessas funções recebe um vetor como entrada e retorna o vetor ordenado.
+
+#### `medirTempo(funcaoOrdenacao, vetor)`
+
+- **Descrição**: Mede o tempo médio de execução de uma função de ordenação aplicada a um vetor.
+- **Parâmetros**:
+  - `funcaoOrdenacao` (função): A função de ordenação a ser testada.
+  - `vetor` (array): O vetor a ser ordenado.
+- **Retorno**: O tempo médio de execução da função de ordenação em milissegundos.
+
+### Função Principal
+
+#### `main()`
+
+- **Descrição**: Função principal que executa o código principal do programa.
+- **Funcionamento**:
+  - Gera vetores aleatórios, crescentes e decrescentes com base no tamanho especificado.
+  - Mede o tempo de execução de cada algoritmo de ordenação para cada tipo de vetor.
+  - Exibe os resultados no console.
+- **Parâmetros**: Não possui parâmetros.
+- **Retorno**: Não possui retorno.
+
+### Utilização
+
+Para usar este código, você pode simplesmente chamar a função `main()` para executar as medições de tempo e obter os resultados no console. Certifique-se de definir o tamanho do vetor desejado na variável `tamanhoVetor` no corpo da função `main()`.
+
+```javascript
+main();
+```
+
+### Exemplo de Saída
+
+A saída no console apresentará os tempos médios de execução dos algoritmos de ordenação para cada tipo de vetor (aleatório, crescente e decrescente).
+
+---
+
+Este é um resumo da documentação do código de ordenação. Certifique-se de ajustar o tamanho do vetor conforme necessário e explorar os resultados para entender o desempenho dos algoritmos de ordenação em diferentes cenários.

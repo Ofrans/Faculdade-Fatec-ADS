@@ -1,0 +1,22 @@
+Exercícios
+1. O escalonamento Round-Robin é um algoritmo que alocando fatias iguais de tempo de CPU para processos em execução em um ciclo contínuo. Garante justiça na distribuição de recursos, mas pode não ser eficiente para processos longos.
+2. A eficiência E do sistema de tempo compartilhado depende do valor de quantum (tq), da duração da troca de contexto (ttc) e do percentual de tempo gasto em E/S (p). Pode ser calculada como:
+
+E = (tq - ttc) / tq * (1 - p/100)
+3. A técnica de aging é usada em escalonamento para priorizar processos mais antigos, evitando inversão de prioridades. Ela aumenta a prioridade de processos com base no tempo de espera na fila, garantindo que processos importantes não sejam bloqueados por operações de E/S demoradas.
+4. Para suportar uma escala de prioridades negativa no algoritmo de envelhecimento, você deve modificar a fórmula de envelhecimento para permitir valores negativos, ajustar a seleção do processo de menor prioridade e definir limites para evitar valores extremos.
+5. (a) FCFS cooperativa: Turnaround time médio = 14.4, Waiting time médio = 9.6
+(b) SJF cooperativa: Turnaround time médio = 16.4, Waiting time médio = 10.6
+(c) SJF preemptiva (SRTF): Turnaround time médio = 16.4, Waiting time médio = 10.6
+(d) PRIO cooperativa: Turnaround time médio = 16.4, Waiting time médio = 10.6
+(e) PRIO preemptiva: Turnaround time médio = 16.4, Waiting time médio = 10.6
+(f) RR com tq = 2, sem envelhecimento: Turnaround time médio = 16.2, Waiting time médio = 7.2
+6. Aqui estão os tempos médios de vida (turnaround time) e de espera (waiting time) para as tarefas com base nos novos dados fornecidos:
+
+(a) FCFS cooperativa: Turnaround time médio = 14.4, Waiting time médio = 9.6
+(b) SJF cooperativa: Turnaround time médio = 14.8, Waiting time médio = 7.8
+(c) SJF preemptiva (SRTF): Turnaround time médio = 13.6, Waiting time médio = 6.6
+(d) PRIO cooperativa: Turnaround time médio = 15.0, Waiting time médio = 9.0
+(e) PRIO preemptiva: Turnaround time médio = 15.0, Waiting time médio = 9.0
+(f) RR com tq = 2, sem envelhecimento: Turnaround time médio = 16.2, Waiting time médio = 7.2
+

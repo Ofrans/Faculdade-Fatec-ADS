@@ -1,9 +1,0 @@
-Repetição = Loop
-
-* Utilizando o Loop, você agiliza o processo de criação do código
-
-Algumas peculiaridades do Loop{
-    - 1°: Executará todos os comandos do fluxo
-}
-
-link yt: https://www.youtube.com/watch?v=eS8RTUW82GA
